@@ -1,6 +1,6 @@
 # onlineShop
-steps:
-- title: What is GitHub?
-  description: After watching this video, close the first issue in your repository.
-  video: https://youtu.be/3sekv_aAq78
+
+[<img src="https://img.youtube.com/vi/<https://youtu.be/3sekv_aAq78>/maxresdefault.jpg" width="50%">](https://youtu.be/<https://youtu.be/3sekv_aAq78>)
+
+
 
