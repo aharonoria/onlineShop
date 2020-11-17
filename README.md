@@ -1,6 +1,2 @@
 # onlineShop
-
-[<img src="https://img.youtube.com/vi/<https://youtu.be/3sekv_aAq78>/maxresdefault.jpg" width="50%">](https://youtu.be/<https://youtu.be/3sekv_aAq78>)
-
-
-
+![onlineShopDemo](https://user-images.githubusercontent.com/45935964/99384809-a585fa00-28d8-11eb-84ba-bc213aaa15b2.gif)
